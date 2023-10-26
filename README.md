@@ -11,8 +11,8 @@
 
 <p align=center>
   <font size=4>
-    <a href="https://SAKETH11111.github.io/chevron/">Live Demo</a> | 
-    <a href="https://github.com/kholmogorov27/chevron/releases/latest">Download</a> |
+    <a href="https://saketh11111.github.io/Chromium/">Live Demo</a> | 
+    <a href="https://github.com/saketh11111/Chromium/releases/latest">Download</a> |
     <a href="#installation">Installation</a>
   </font>
 </p>
